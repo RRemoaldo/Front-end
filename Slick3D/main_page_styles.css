@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  height: 1000px;
+  background-image: linear-gradient(orange, red);
+}
+
+h1 {
+  color: azure;
+  text-align: center;
+}
+
+button {
+  height: 60px;
+  width: 300px;
+  border-radius: 30px;
+}
+
+button:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+}
